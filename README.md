@@ -3,7 +3,7 @@
 ## Overview
 This repository contains data and insights on the company's workforce, focusing on various attributes like attrition, business travel, age band, etc.
 
-## Data Columns (Selected)
+## Data Columns 
 - **Attrition**
 - **Business Travel**
 - **Department**
